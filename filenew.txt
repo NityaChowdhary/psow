@@ -1,2 +1,2 @@
-cat died 
+dog died 
 son cried
